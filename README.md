@@ -1,4 +1,5 @@
 download all dependencies mentioned in req.txt
+<br>
 downlaod and install ollama in your device
 open terminal run "ollama run zypher"
 run extract_graph.ipynb
